@@ -73,13 +73,13 @@ Data was collected using the **YouTube Data API v3**. The following steps were p
 
 ## ✏️ Visualisations
 1. **Distribution of Views, Likes, and Comments**:
-   ![Distribution Plots](https://via.placeholder.com/600x400) *(Replace with actual plot link)*
+   ![Distribution Plots](/Plots/1.Distribution of Views, likes and comments.png)
 2. **Average Engagement by Publish Day**:
-   ![Publish Day Analysis](https://via.placeholder.com/600x400) *(Replace with actual plot link)*
+   ![Publish Day Analysis](/Plots/2.Average views, likes, and comments by publish day.png) 
 3. **Video Duration vs Engagement**:
-   ![Duration Analysis](https://via.placeholder.com/600x400) *(Replace with actual plot link)*
+   ![Duration Analysis](/Plots/3.Scatter plot for video duration vs views, likes, comments.png)
 4. **Correlation Heatmap**:
-   ![Correlation Heatmap](https://via.placeholder.com/600x400) *(Replace with actual plot link)*
+   ![Correlation Heatmap](/Plots/5.Correlation heatmap.png)
 
 ---
 
