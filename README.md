@@ -75,11 +75,11 @@ Data was collected using the **YouTube Data API v3**. The following steps were p
 1. **Distribution of Views, Likes, and Comments**:
    ![Distribution Plots](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/1.DistributionofViews%2Clikesandcomments.png?raw=true)
 2. **Average Engagement by Publish Day**:
-   ![Publish Day Analysis](https://github.com/ayusyagol11/Plots/1.DistributionofViews,likesandcomments.png?raw=true)
+   ![Publish Day Analysis](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/2.Average%20views%2C%20likes%2C%20and%20comments%20by%20publish%20day.png?raw=true)
 3. **Video Duration vs Engagement**:
-   ![Duration Analysis](https://github.com/ayusyagol11/Plots/1.DistributionofViews,likesandcomments.png?raw=true)
+   ![Duration Analysis](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/3.Scatter%20plot%20for%20video%20duration%20vs%20views%2C%20likes%2C%20comments.png?raw=true)
 4. **Correlation Heatmap**:
-   ![Correlation Heatmap](https://github.com/ayusyagol11/Plots/1.DistributionofViews,likesandcomments.png?raw=true)
+   ![Correlation Heatmap](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/5.Correlation%20heatmap.png?raw=true)
 
 ---
 
