@@ -1,7 +1,7 @@
 # 📹YouTube Channel Performance Analysis: Ayusy
 
 ## ✏️ Overview
-This project focuses on analyzing the performance of the **Ayusy** YouTube channel using data extracted via the YouTube API. The goal is to identify patterns and actionable insights to improve the channel's reach and engagement. The analysis covers key metrics such as views, likes, comments, video duration, tags, and more.
+This project focuses on analyzing the performance of the **Ayusy** [YouTube channel](https://www.youtube.com/@Ayusy) using data extracted via the YouTube API. The goal is to identify patterns and actionable insights to improve the channel's reach and engagement. The analysis covers key metrics such as views, likes, comments, video duration, tags, and more.
 
 ---
 
